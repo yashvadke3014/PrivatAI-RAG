@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pyjwt
+bcrypt
+llama-index
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+qdrant-client
+pytest
+httpx
+
+pass:12345678

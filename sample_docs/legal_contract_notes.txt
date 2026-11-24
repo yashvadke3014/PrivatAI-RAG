@@ -1,0 +1,13 @@
+Internal Legal Memo — Vendor Contract Review
+
+This memo summarizes key terms from the Q3 vendor services agreement.
+
+Liability Clause: The vendor's total liability under this agreement is capped at the total fees paid in the preceding 12 months. Neither party is liable for indirect, incidental, or consequential damages.
+
+Termination: Either party may terminate this agreement with 30 days written notice. In the event of a material breach, the non-breaching party may terminate immediately upon written notice if the breach is not cured within 15 days.
+
+Confidentiality: Both parties agree to keep all proprietary information confidential for a period of 3 years following termination of this agreement.
+
+Governing Law: This agreement is governed by the laws of the State of Delaware, without regard to conflict of law principles.
+
+Indemnification: The vendor agrees to indemnify the company against any third-party claims arising from the vendor's gross negligence or willful misconduct.

@@ -3,6 +3,8 @@ uvicorn
 python-multipart
 pyjwt
 bcrypt
+requests
+streamlit
 llama-index
 llama-index-vector-stores-qdrant
 llama-index-embeddings-huggingface
